@@ -15,5 +15,7 @@ python -m pip install -r requirements.txt
 ```
 
 get_stock_price.py >> ใช้สำหรับเตรียม Dataset
+
 create_model.py >> ใช้สำหรับ Create model
+
 predict_price.py >> ใช้สำหรับทำนายราคา
